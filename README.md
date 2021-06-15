@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kenn-0
+👋 Hi, I’m Kenn
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on web development related projects.
