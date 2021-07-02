@@ -1,6 +1,6 @@
 # Hi, Folks 👋 
 
-I am a full stack web developer. Tech stack that I am using is Ruby on Rails, React, JavaScript, HMTL, CSS. Currently, I am dabbled into Python. I’m constantly looking for opportunities to work & collaborate on the projects that match with my tech stack. 
+I am a full stack web developer. Tech stack that I am using is Ruby on Rails, React, JavaScript, HMTL, CSS. I’m constantly looking for opportunities to work & collaborate on the projects that match with my tech stack. 
 📧 Please feel free to reach out to me at gervasiusgan@gmail.com | kennvun@hotmail.com
 
 # Projects
