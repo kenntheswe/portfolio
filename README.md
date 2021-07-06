@@ -1,7 +1,10 @@
 # Hi, Folks 👋 
 
-I am a full stack web developer. Tech stack that I am using is Ruby on Rails, React, JavaScript, HMTL, CSS. I’m constantly looking for opportunities to work & collaborate on the projects that match with my tech stack. 
-📧 Please feel free to reach out to me at gervasiusgan@gmail.com | kennvun@hotmail.com
+I am a full stack web developer. Tech stack that I am using is Ruby on Rails, React, JavaScript, HMTL, CSS. I’m constantly looking for opportunities to work & collaborate on the projects that match with my tech stack.
+
+💻 Feel free to check out my [Portfolio](https://www.kennvun.me)
+<br>
+📧 Reach out to me at gervasiusgan@gmail.com | kennvun@hotmail.com
 
 # Projects
 
