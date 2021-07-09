@@ -8,6 +8,9 @@ I am a full stack web developer. Tech stack that I am using is Ruby on Rails, Re
 
 # Projects
 
+![image](https://user-images.githubusercontent.com/53637961/122752121-849ce180-d2cb-11eb-91d1-002a5de8b13d.png)
+React Giphy [Live](https://www.kennvun.me) | [Code](https://github.com/Kenn-0/react-giphy)
+
 ![image](https://user-images.githubusercontent.com/53637961/122750819-f4aa6800-d2c9-11eb-84ad-ce115e2467a9.png)
 
 Baiku [Live](https://www.baiku-official.com/) | [Code](https://github.com/Kenn-0/baiku-app)
@@ -17,6 +20,3 @@ StudioFind [Live](http://studio-find.herokuapp.com/) | [Code](https://github.com
 
 ![image](https://user-images.githubusercontent.com/53637961/122750494-88c7ff80-d2c9-11eb-8d5a-a7c4ce1b99d2.png)
 Movie Watchlist (Kenn's Watchlist) [Live](https://kenns-watchlist.herokuapp.com/) | [Code](https://github.com/Kenn-0/watch-list)
-
-![image](https://user-images.githubusercontent.com/53637961/122752121-849ce180-d2cb-11eb-91d1-002a5de8b13d.png)
-React Giphy [Live](https://www.kennvun.me) | [Code](https://github.com/Kenn-0/react-giphy)
