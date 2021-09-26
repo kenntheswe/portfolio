@@ -3,8 +3,13 @@
 I am a full stack web developer. I’m constantly looking for opportunities to work & collaborate on the projects that match with my tech stack.
 
 # Tech Stack
-Ruby | JavaScript
+Ruby | JavaScript | HTML | CSS
+<br>
 Ruby on Rails | React
+<br>
+Bootstrap | Tailwind CSS
+<br>
+PostgreSQL | Firebase | Heroku | Visual Studio Code | Figma
 
 # Projects
 
