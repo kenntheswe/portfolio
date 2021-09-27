@@ -1,6 +1,6 @@
-# 👋 Hi, Folks 
+# 👋 Hi, Folks
 
-I am a full stack web developer. I’m constantly looking for opportunities to work & collaborate on the projects that match with my tech stack.
+I am Kenn, a full stack web developer. I’m constantly looking for opportunities to work & collaborate on the projects that match with my tech stack.
 
 # 🛠 Tech Stack
 Ruby | JavaScript | HTML | CSS
