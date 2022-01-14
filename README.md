@@ -11,8 +11,6 @@ Bootstrap | Tailwind CSS
 <br>
 PostgreSQL | Firebase | Heroku | Visual Studio Code | Figma
 
-![Kenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenn-0&theme=dark&show_icons=true)
-
 # 🎥 Projects
 
 ![image](https://user-images.githubusercontent.com/53637961/122752121-849ce180-d2cb-11eb-91d1-002a5de8b13d.png)
