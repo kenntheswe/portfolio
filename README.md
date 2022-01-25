@@ -9,7 +9,9 @@ Ruby on Rails | React
 <br>
 Bootstrap | Tailwind CSS
 <br>
-PostgreSQL | Firebase | Heroku | Visual Studio Code | Figma
+Docker | Puppet | PostgreSQL | Firebase | Heroku
+<br>
+Visual Studio Code | Figma
 
 # 🎥 Projects
 
