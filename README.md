@@ -13,8 +13,8 @@ Docker | Puppet | PostgreSQL | Firebase | Heroku
 <br>
 Visual Studio Code | Figma
 
-# 👨🏼‍💻 Stats
-![Kenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenn-0&theme=chartreuse-dark&show_icons=true)
+<!-- # 👨🏼‍💻 Stats -->
+<!-- ![Kenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenn-0&theme=chartreuse-dark&show_icons=true) -->
 
 # 🎥 Projects
 
