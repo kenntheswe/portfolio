@@ -7,7 +7,7 @@ Ruby | JavaScript | Python | HTML | CSS
 <br>
 Ruby on Rails | React
 <br>
-Bootstrap | Tailwind CSS
+Bootstrap | Tailwind CSS | Material UI
 <br>
 Docker | Puppet | PostgreSQL | Firebase | Heroku | AWS Amplify
 <br>
