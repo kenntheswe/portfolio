@@ -1,6 +1,6 @@
 # 👋 Hi Folks, I'm [Kenn](https://www.kennvun.me)
 
-I am a full stack web developer. I am looking for opportunities to work & collaborate on the projects that match with my tech stack. Looking forward to some collaborations!
+I am a full stack web developer. I am looking for opportunities to work & collaborate on the projects that match with my tech stack. Looking forward to some project collaborations!
 
 # 🛠 Tech Stack
 Ruby | JavaScript | Python | HTML | CSS
