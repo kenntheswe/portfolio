@@ -11,7 +11,7 @@ Bootstrap | Tailwind CSS | Material UI | FontAwesome
 <br>
 Docker | Puppet | SQL | PostgreSQL | Firebase | Heroku | AWS Amplify
 <br>
-Visual Studio Code | Figma
+Visual Studio Code | Figma | Canva
 
 # 👨🏼‍💻 Stats
 ![Kenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennvungan&theme=chartreuse-dark&show_icons=true)
