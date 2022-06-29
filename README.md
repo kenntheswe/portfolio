@@ -5,7 +5,7 @@ I am a full stack web developer. I am looking for opportunities to work & collab
 # 🛠 Tech Stack
 Ruby | JavaScript | Python | HTML | CSS
 <br>
-Ruby on Rails | React
+Ruby on Rails | React | Express
 <br>
 Bootstrap | Tailwind CSS | Material UI | FontAwesome
 <br>
