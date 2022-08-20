@@ -20,7 +20,7 @@ Visual Studio Code | Figma | Canva
 
 ![image](https://user-images.githubusercontent.com/53637961/122752121-849ce180-d2cb-11eb-91d1-002a5de8b13d.png)
 
-React Giphy [Live](https://www.kennvun.me) | [Code](https://github.com/Kenn-0/react-giphy)
+React Giphy [Live](https://master.d2btbg8y9uz2ag.amplifyapp.com/) | [Code](https://github.com/Kenn-0/react-giphy)
 
 ![image](https://user-images.githubusercontent.com/53637961/122750819-f4aa6800-d2c9-11eb-84ad-ce115e2467a9.png)
 
