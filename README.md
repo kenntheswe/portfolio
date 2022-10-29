@@ -36,6 +36,6 @@ Movie Watchlist (Kenn's Watchlist) [Live](https://kenns-watchlist.herokuapp.com/
 
 # 📩 Contact
 
-💻 Feel free to check out my [portfolio](https://www.kennvun.me)
+💻 Feel free to check out my [portfolio](https://kennvungan.github.io/portfolio/)
 <br>
 📧 Reach out to me at gervasiusgan@gmail.com | kennvun@hotmail.com
