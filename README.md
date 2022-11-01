@@ -9,7 +9,7 @@ Ruby on Rails | React | Express
 <br>
 Bootstrap | Tailwind CSS | Material UI | FontAwesome
 <br>
-Docker | Puppet | SQL | PostgreSQL | Firebase | Heroku | AWS Amplify
+Docker | Puppet | SQL | PostgreSQL | Apache Pulsar | Firebase | Heroku | AWS Amplify 
 <br>
 Visual Studio Code | Figma | Canva | Swagger
 
