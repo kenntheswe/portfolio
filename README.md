@@ -1,4 +1,4 @@
-# 👋 Hi Folks, I'm [Kenn](https://www.kennvun.me)
+# 👋 Hi, I'm [Kenn](https://www.kennvun.me)
 
 I am a full stack web developer. I am looking for opportunities to work & collaborate on the projects that match with my tech stack. Looking forward to some cool collaborations!
 
