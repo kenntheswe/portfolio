@@ -1,17 +1,11 @@
-# 👋 Hi, I'm [Kenn](https://www.kennvun.me)
+# 👋 Hi, I'm [Kenn](https://kennvungan.github.io/portfolio/)
 
-I am a full stack web developer. I am looking for opportunities to work & collaborate on the projects that match with my tech stack. Looking forward to some cool collaborations!
+I am a front end developer at a fintech company
 
-# 🛠 Tech Stack
-Ruby | JavaScript | Python | HTML | CSS
+# 🛠 Some Tools
+React | Typescript | Express.js | HTML | CSS | Ant Design | TailWind CSS
 <br>
-Ruby on Rails | React | Express
-<br>
-Bootstrap | Tailwind CSS | Material UI | FontAwesome
-<br>
-Docker | Puppet | SQL | PostgreSQL | Apache Pulsar | Firebase | Heroku | AWS Amplify 
-<br>
-Visual Studio Code | Figma | Canva | Swagger
+Docker | Kubernetes | Apache Pulsar | Gitlab CI | PostgreSQL
 
 # 👨🏼‍💻 Stats
 ![Kenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennvungan&theme=chartreuse-dark&show_icons=true)
@@ -36,6 +30,6 @@ Movie Watchlist (Kenn's Watchlist) [Live](https://kenns-watchlist.herokuapp.com/
 
 # 📩 Contact
 
-💻 Feel free to check out my [portfolio](https://kennvungan.github.io/portfolio/)
+💻 Check out my [portfolio](https://kennvungan.github.io/portfolio/)
 <br>
-📧 Reach out to me at gervasiusgan@gmail.com | kennvun@hotmail.com
+📧 Reach out to me [here](mailto:kennvun@hotmail.com)
