@@ -27,6 +27,4 @@ Movie Watchlist (Kenn's Watchlist) [Live](https://kenns-watchlist.herokuapp.com/
 
 # 📩 Contact
 
-💻 Check out my [portfolio](https://kennvungan.github.io/portfolio/)
-<br>
-📧 Reach out to me [here](mailto:kennvun@hotmail.com)
+💻 Check out my [portfolio](https://kenntheswe.github.io/portfolio/)
