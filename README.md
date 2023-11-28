@@ -5,7 +5,7 @@ I am a front end developer at a fintech company
 # 🛠 Some Tools
 React | Typescript | Express.js | HTML | CSS | Ant Design | TailWind CSS
 <br>
-Docker | Kubernetes | Apache Pulsar | Gitlab CI | PostgreSQL
+Docker | Kubernetes | Apache Pulsar | Apache Ignite | Gitlab CI | PostgreSQL
 
 # 🎥 Projects
 
